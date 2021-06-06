@@ -1,0 +1,21 @@
+body {
+  background-color: white;
+  margin: 0px;
+}
+
+#shiny {
+  position: fixed;
+  width: 100vw;
+  hight: auto;
+}
+
+#content {
+  position: absolute;
+  margin-left: 20vw;
+  margin-top: 30vh;
+  background-color: white;
+  text-align: center;
+  width: 58.5vw;
+  height: 50vh-1.5vw;
+  padding: 1.5vw;
+}
